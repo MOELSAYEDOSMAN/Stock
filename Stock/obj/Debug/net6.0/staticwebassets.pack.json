@@ -1,0 +1,321 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Stock.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Stock.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\Images\\Error\\Error404.png",
+      "PackagePath": "staticwebassets\\Images\\Error\\Error404.png"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\Images\\Item\\1d8c66b1-42f3-4943-b10f-fabaaa564bf5.webp",
+      "PackagePath": "staticwebassets\\Images\\Item\\1d8c66b1-42f3-4943-b10f-fabaaa564bf5.webp"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\Images\\Item\\4c832f46-79dd-45ee-b847-685e667a65de.webp",
+      "PackagePath": "staticwebassets\\Images\\Item\\4c832f46-79dd-45ee-b847-685e667a65de.webp"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\Images\\Item\\5f23ba4c-24d1-4e75-a27f-ab4d17cb3a81.webp",
+      "PackagePath": "staticwebassets\\Images\\Item\\5f23ba4c-24d1-4e75-a27f-ab4d17cb3a81.webp"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\Images\\Item\\7264e368-5597-4676-b6c2-cf5152262159.webp",
+      "PackagePath": "staticwebassets\\Images\\Item\\7264e368-5597-4676-b6c2-cf5152262159.webp"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\Images\\Item\\7e91e8a8-f0a5-44b6-b2aa-fdff3e75160f.webp",
+      "PackagePath": "staticwebassets\\Images\\Item\\7e91e8a8-f0a5-44b6-b2aa-fdff3e75160f.webp"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\Images\\Item\\Item.webp",
+      "PackagePath": "staticwebassets\\Images\\Item\\Item.webp"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\Images\\Item\\a66e5cce-7375-4b07-87d7-54a279c0d630.webp",
+      "PackagePath": "staticwebassets\\Images\\Item\\a66e5cce-7375-4b07-87d7-54a279c0d630.webp"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\Images\\Item\\a8d45d95-ea8d-44e3-9969-d996fff5baea.webp",
+      "PackagePath": "staticwebassets\\Images\\Item\\a8d45d95-ea8d-44e3-9969-d996fff5baea.webp"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\Images\\Item\\b3725bd0-30d6-430d-af7d-dce8186ca5ec.webp",
+      "PackagePath": "staticwebassets\\Images\\Item\\b3725bd0-30d6-430d-af7d-dce8186ca5ec.webp"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\Images\\Store\\5097f0fa-e7fb-468f-89d5-cb68569f4d4e.webp",
+      "PackagePath": "staticwebassets\\Images\\Store\\5097f0fa-e7fb-468f-89d5-cb68569f4d4e.webp"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\Images\\Store\\Store.webp",
+      "PackagePath": "staticwebassets\\Images\\Store\\Store.webp"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\Images\\Store\\ac1107b3-5c0e-40db-972b-1abe8b06b288.webp",
+      "PackagePath": "staticwebassets\\Images\\Store\\ac1107b3-5c0e-40db-972b-1abe8b06b288.webp"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\js\\ImageDelete.js",
+      "PackagePath": "staticwebassets\\js\\ImageDelete.js"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Project\\Assignment\\NewFolder\\Mohamed Elsayed Osman(MVC Demo)\\CodeZone\\Stock\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Stock.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Stock.props",
+      "PackagePath": "build\\Stock.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Stock.props",
+      "PackagePath": "buildMultiTargeting\\Stock.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Stock.props",
+      "PackagePath": "buildTransitive\\Stock.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

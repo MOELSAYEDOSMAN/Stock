@@ -1,0 +1,77 @@
+﻿@model ItemDTO
+@{
+    ViewData["Title"] = "EditItem";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Edit Item</h1>
+@if (Model == null)
+{
+    @await Html.PartialAsync("NotFoundPage")
+}
+else
+{
+    <form asp-action="EditItem" asp-controller="Item" method="post" enctype="multipart/form-data">
+        <div class="form-group m-2">
+            <label class="form-label" for="exampleInputEmail1">Item Name</label>
+            <input class="form-control" required asp-for="Name">
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div class="form-group m-2">
+            <label class="form-label" for="exampleInputEmail1">Item Price</label>
+            <input class="form-control" required asp-for="Price" min="1">
+            <span asp-validation-for="Price" class="text-danger"></span>
+        </div>
+
+        <div class="form-group m-2">
+            <label class="form-label" for="exampleInputEmail1">Item Description</label>
+            <textarea rows="3" class="form-control" required asp-for="Description"></textarea>
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+
+        <div class="form-group m-2">
+            <label class="form-label" for="exampleInputEmail1">Item Icon(Not Required)</label>
+            <br />
+            <input type="file" asp-for="Icon" class="btn btn-primary form-control" onChange="img_pathUrl(this);" accept=".jpg, .jpeg, .png" id="file-upload">
+            <br />
+            <img src="/Images/@ViewBag.Icon" alt="Preview Uploaded Image" class="img-thumbnail m-2" id="file-preview">
+        </div>
+
+        <div class="form-group m-2">
+            <label class="form-label" for="exampleInputEmail1">Item Images(Not Required)</label>
+            <br />
+            <input type="file" id="file-input" class="btn btn-secondary form-control" accept=".jpg, .jpeg, .png" asp-for="Images" multiple>
+            <br />
+            <div id="preview-container"></div>
+        </div>
+        
+        @if (ViewBag.Images.Count > 0)
+        {
+            <div class="d-block">
+                <h3>Old Images</h3>
+                <div class="d-flex">
+                    @foreach (ItemImage i in ViewBag.Images)
+                    {
+                        <div class="d-grid m-1">
+                            <img class="preview-image" src="/Images/@i.Src" />
+                            <button class="btn btn-danger" type="button" data-src="@i.Src" data-id="@ViewBag.Id" onclick="deleteImage(this)">Delete</button>
+                        </div>
+                    }
+                </div>
+            </div>
+        }
+
+        <div class="form-group text-center m-2">
+            <input type="submit" class="btn btn-outline-success btn-lg" value="Save">
+        </div>
+        
+    </form>
+
+    @section Scripts
+    {
+        @await Html.PartialAsync("_ValidationScriptsPartial")
+        @await Html.PartialAsync("_ImageJsScriptsPartial")
+        <script src="~/js/ImageDelete.js"></script>
+    }
+}

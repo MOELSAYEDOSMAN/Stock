@@ -1,0 +1,53 @@
+﻿@model Store
+@{
+    ViewData["Title"] = Model?.Name??"NotFound";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if(Model==null)
+{
+    @await Html.PartialAsync("NotFoundPage")
+}
+else
+{
+    <div class="d-flex">
+        
+        <div class="d-block w-75 align-self-lg-center">
+                <h5 class="mt-0">@Model.Name</h5>
+                <p>Phone:@Model.PhoneNumber</p>
+                <p>Address:@Model.Address</p>
+        </div>
+        <div class="d-block w-25">
+            <img src="/Images/@Model.Icon" width="100%" class="align-self-start mr-3" alt="Store Icon">
+        </div>
+    </div>
+    <hr />
+    <h1>Item in Stock</h1>
+    <div class="container">
+        @if(Model.Stocks.Count==0)
+        {
+            <div class="text-center">
+            <h3 class="text-danger">No Items</h3>
+            </div>
+        }
+        else
+        {
+            <div class="row row-cols-3">
+                @foreach (var i in Model.Stocks)
+                {
+                    <div class="col">
+                        <a asp-action="GetItem" asp-controller="Item" asp-route-Id="@i.ItemId" class="card ItemPage" style="width: 18rem;">
+                            <img src="/Images/@i.Item.Icon" class="card-img-top" alt="Item Icon">
+                            <div class="card-body">
+                                <p class="card-text">@i.Item.Name</p>
+                                <p class="card-text">Count:@i.Quantity</p>
+                                <p class="card-text">Count:@i.Item.Price</p>
+                            </div>
+                        </a>
+                    </div>
+                }
+            </div>
+        }
+    </div>
+}
+

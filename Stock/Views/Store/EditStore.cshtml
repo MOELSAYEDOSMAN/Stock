@@ -1,0 +1,52 @@
+﻿@model StoreDTO
+@{
+    ViewData["Title"] = "Edit Store";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>EditStore</h1>
+@if (Model == null)
+{
+    @await Html.PartialAsync("NotFoundPage")
+}
+else
+{
+    <form asp-action="EditStore" asp-controller="Store" method="post" enctype="multipart/form-data">
+    <div class="form-group m-2">
+        <label class="form-label" for="exampleInputEmail1">Store Name</label>
+        <input class="form-control" required asp-for="Name">
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group m-2">
+        <label class="form-label" for="exampleInputEmail1">Store Phone</label>
+        <input class="form-control" required asp-for="PhoneNumber" maxlength="11">
+        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+    </div>
+
+    <div class="form-group m-2">
+        <label class="form-label" for="exampleInputEmail1">Store Address</label>
+        <textarea rows="3" class="form-control" required asp-for="Address"></textarea>
+        <span asp-validation-for="Address" class="text-danger"></span>
+    </div>
+
+    <div class="form-group m-2">
+        <label class="form-label" for="exampleInputEmail1">Store Icon(Not Required)</label>
+        <br />
+        <input type="file" asp-for="Icon" class="btn btn-primary form-control" onChange="img_pathUrl(this);" accept=".jpg, .jpeg, .png" id="file-upload">
+        <br />
+            <img src="/Images/@ViewBag.Icon" alt="Preview Uploaded Image" class="img-thumbnail m-2" id="file-preview">
+    </div>
+
+    <div class="form-group text-center m-2">
+        <button type="submit" class="btn btn-outline-success btn-lg">Save</button>
+    </div>
+</form>
+
+
+@section Scripts
+{
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+    @await Html.PartialAsync("_ImageJsScriptsPartial")
+}
+}

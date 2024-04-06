@@ -1,0 +1,87 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Stock
+build_property.RootNamespace = Stock
+build_property.ProjectDir = D:\Project\Assignment\NewFolder\Mohamed Elsayed Osman(MVC Demo)\CodeZone\Stock\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Project\Assignment\NewFolder\Mohamed Elsayed Osman(MVC Demo)\CodeZone\Stock
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Project/Assignment/NewFolder/Mohamed Elsayed Osman(MVC Demo)/CodeZone/Stock/Views/Item/AddNewItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVxBZGROZXdJdGVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Assignment/NewFolder/Mohamed Elsayed Osman(MVC Demo)/CodeZone/Stock/Views/Item/EditItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVxFZGl0SXRlbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Assignment/NewFolder/Mohamed Elsayed Osman(MVC Demo)/CodeZone/Stock/Views/Item/GetItem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVxHZXRJdGVtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Assignment/NewFolder/Mohamed Elsayed Osman(MVC Demo)/CodeZone/Stock/Views/Item/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Assignment/NewFolder/Mohamed Elsayed Osman(MVC Demo)/CodeZone/Stock/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Assignment/NewFolder/Mohamed Elsayed Osman(MVC Demo)/CodeZone/Stock/Views/Shared/NotFoundPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5vdEZvdW5kUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Assignment/NewFolder/Mohamed Elsayed Osman(MVC Demo)/CodeZone/Stock/Views/Shared/_ConfiremRemove.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db25maXJlbVJlbW92ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Assignment/NewFolder/Mohamed Elsayed Osman(MVC Demo)/CodeZone/Stock/Views/Shared/_ImageJsScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9JbWFnZUpzU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Assignment/NewFolder/Mohamed Elsayed Osman(MVC Demo)/CodeZone/Stock/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Assignment/NewFolder/Mohamed Elsayed Osman(MVC Demo)/CodeZone/Stock/Views/Stock/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvY2tcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Assignment/NewFolder/Mohamed Elsayed Osman(MVC Demo)/CodeZone/Stock/Views/Store/AddNewStore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVcQWRkTmV3U3RvcmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Assignment/NewFolder/Mohamed Elsayed Osman(MVC Demo)/CodeZone/Stock/Views/Store/EditStore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVcRWRpdFN0b3JlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Assignment/NewFolder/Mohamed Elsayed Osman(MVC Demo)/CodeZone/Stock/Views/Store/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Assignment/NewFolder/Mohamed Elsayed Osman(MVC Demo)/CodeZone/Stock/Views/Store/ShowStore.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RvcmVcU2hvd1N0b3JlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Assignment/NewFolder/Mohamed Elsayed Osman(MVC Demo)/CodeZone/Stock/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Assignment/NewFolder/Mohamed Elsayed Osman(MVC Demo)/CodeZone/Stock/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project/Assignment/NewFolder/Mohamed Elsayed Osman(MVC Demo)/CodeZone/Stock/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-msk9pet0hh

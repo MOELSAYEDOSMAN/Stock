@@ -1,0 +1,50 @@
+﻿@model List<Store>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    int i = 0;
+}
+
+<h1>Stors</h1>
+<form asp-controller="Store" asp-action="Index" method="get" class="d-flex m-4">
+    <input type="text" placeholder="Serch Store" name="Name" class="input-group-text w-75" />
+    <button type="submit" class="btn btn-primary w-25">Find</button>
+</form>
+<a asp-action="AddNewStore" class="btn btn-success">Add New Store</a>
+<table class="table">
+<thead class="thead-dark">
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Name</th>
+      <th scope="col">Phone</th>
+      <th scope="col">Icon</th>
+      <th scope="col"></th>
+    </tr>
+  </thead>
+    <tbody>
+        @Html.Hidden("store-to-delete", "", new { @id = "store-to-delete" })
+        @foreach(var s in Model)
+        {
+            <tr>
+                <th class="align-content-center" scope="row">@(++i)</th>
+                <td class="align-content-center">@s.Name</td>
+                <td class="align-content-center">@s.PhoneNumber</td>
+                <td><img src="/Images/@s?.Icon" alt="Icon" width="110px" height="70px" class="img-thumbnail border-0"></td>
+                <td class="align-content-center">
+                    <a asp-action="ShowStore" asp-route-Id="@s.StoreId" class="btn btn-warning">Show</a>
+                    <a asp-action="EditStore" asp-route-Id="@s.StoreId" class="btn btn-secondary">Edit</a>
+                    <a type="button" class="btn btn-danger deleteStore" data-bs-toggle="modal" data-id="@s.StoreId" data-bs-target="#exampleModal">
+                        Delete
+                    </a>
+                </td>
+            </tr>
+
+
+        }
+    </tbody>
+</table>
+
+@section Scripts
+{
+    @await Html.PartialAsync("_ConfiremRemove")
+}
